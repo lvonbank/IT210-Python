@@ -1,0 +1,6 @@
+# Levi VonBank
+
+2 is an integer with value of 2
+2.0 is a float with value of two
+'2' and "2" are string literals that contain 2
+"2.0" is a string literal containing the characters 2.0

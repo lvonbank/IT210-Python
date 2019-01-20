@@ -1,0 +1,13 @@
+P4_5.py
+
+P4_9.py
+
+P4_14.py (Use any negative number to end the data set but do NOT include it in the calculation)
+
+P4_31.py (Keep serving buyers until all 100 tickets are sold. Any order for more than 4, sell at most 4. If the number requested would go over 100, sell only the available number to that buyer. Stop reading input when all tickets are sold.)
+
+P4_39.py (use graphics.py and fill a square GraphicsWindow.  Use SIZE = 400 to set a constant for your program's window size.)
+
+R4_16.py
+
+R4_26.py (enter integers height and width (in that order) at the beginning of your program.)

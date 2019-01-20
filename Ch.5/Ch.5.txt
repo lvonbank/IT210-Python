@@ -1,0 +1,13 @@
+R5_3abcdefg.txt
+
+R5_13.txt (How does Python use variables to refer to objects and how does this extend to function parameters/arguments?)
+
+P5_6.py
+
+P5_18.py (MUST use recursion)
+
+P5_22.py (Call your function from a main function that reads initialBalance, interestRate, years (in that order) and prints the result.  For interest rate, use 0.05 for 5%.
+
+P5_25.py (Note that printBarCode computes the check digit, and calls printDigit for each digit that must be printed. Implement a main that will get a zip code using input and will call printBarCode to print the resulting pattern using : and |.
+
+P5_34.py (Write a main function that will use input to get r1, r2 and h (in that order), call the functions described and print both answers, labeled, on a single line.)

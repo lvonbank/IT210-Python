@@ -1,0 +1,15 @@
+P7_2.py
+
+P7_5.py
+
+P7_9.py Write this so the command line looks like: python3 P7_9.py input.txt output.txt
+
+P7_11.py babynames.txt is on D2L.  Do not edit that file! Assume babynames.txt is in the same folder as your program.
+
+P7_12.py babynames.txt is on D2L.  Do not edit that file! Assume babynames.txt is in the same folder as your program.
+
+P7_21.py Prompt for the file name.  Print output with percents shown to 1 decimal place.  Don't print the "<" characters, 
+        just print the value as something like 0.2%. Otherwise, format the table as shown in the text.
+
+P7_25.py Assume the picture lena.bmp is in the same folder as your program.  This picture, probably the most used 
+         photo by students learning image processing, is on D2L.  Create lenaGrayscale.bmp

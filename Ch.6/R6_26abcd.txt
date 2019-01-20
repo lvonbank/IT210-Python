@@ -1,0 +1,8 @@
+# Levi VonBank
+
+A. list1 == list2
+B. list2 = list(list1)
+C. for i in range(len(list)):
+       list[i] = 0
+D. for i in range(len(list)):
+       list.pop()

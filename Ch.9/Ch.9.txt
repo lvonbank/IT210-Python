@@ -1,0 +1,18 @@
+P9_4.py Place the code for this problem and code that tests all aspects of it in the same file.  
+        Testing code must create at least 2 addresses.
+
+P9_7.py Place the code for this problem and code that tests all aspects of it in the same file.
+        Testing code must create at least 3 students with 2 to 4 quizzes for each student.
+ 
+P9_14.py Place the code for this problem in a file with the name at left.  
+         Testing code is in a different file that imports the first file.  
+         Only the first file should be placed in the dropbox.
+ 
+P9_16.py Add code to the fraction class (code is on D2L) and submit the changed file (named P9_16.py).
+         It should use the * and / operators.
+ 
+P9_30.py Build the Resistor class.  Parameters to the Resistor constructor should be 3 or 4 colors 
+         (since a missing color for the fourth band is legal). Color names must be exactly as in the 
+         table with the leading uppercase character.  Use random to compute a resistance value in the 
+         range permitted by the tolerance.  Supply getNominal and getActual methods.  
+         Supply test code in if __name__ == "__main__":

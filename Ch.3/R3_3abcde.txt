@@ -1,0 +1,8 @@
+# Levi VonBank
+
+a. There shoud be a colon after the x > 0 and there shouldnt be a "then" statement.
+b. If we are importing math library, then we have to use math.sqrt. 
+c. Instead of a single = sign, it should be ==(relational operators)
+d. sum + x in line 4 should be in inverted commas.
+e. In this question, we will have to use elif statements and not all if statements. 
+   Beyond that, the >= signs need to be adjusted as well.

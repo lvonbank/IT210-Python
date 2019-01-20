@@ -1,0 +1,10 @@
+# Levi VonBank
+
+Why doesn't the falseSwap function swap the contents of x and y?
+The first problem is the values stored in x and y are being printed not falseSwap.
+The second problem is falseSwap is never being stored in a variable to be used.
+The third problem is main() is never called so the def[s] are compiled, but never used.
+
+How does Python use variables to refer to objects and how does this extend to function parameters/arguments?
+Variables are given an object and with that a particular refrence to that object.
+Parameters are then a references to an object and those arguments are passed by assignment.

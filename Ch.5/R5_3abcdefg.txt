@@ -1,0 +1,9 @@
+# Levi VonBank
+
+a. False
+b. False
+c. False
+d. False
+e. True
+f. False
+g. True

@@ -1,0 +1,22 @@
+# Levi VonBank
+
+if row % 2 != 0:
+    if number % 2 != 0:
+        color = 'black'
+    else:
+        color = 'white'
+else:
+    if number % 2 == 0:
+        color = 'black1'
+    else:
+        color = 'white1'
+  
+print(color)
+
+
+
+TEST CASES
+a1
+a2
+b1
+b2

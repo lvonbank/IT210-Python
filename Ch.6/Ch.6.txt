@@ -1,0 +1,15 @@
+R6_1abcdefg.py Try to make your code for each of these as compact as possible (look for and implement patterns). At the end of your program, print each of the lists you have generated (e.g. print(listA))
+
+R6_6.py Write as a function named minMax(lis) that returns a 2-element tuple containing min and max in that order.  You can write your own main to test it.  I may import your file to test it with my own main.
+
+R6_26abcd.txt Just a text file with python snippets and explanations as necessary
+
+P6_1.py Print the original list first, then the requested outputs, in order.
+
+P6_6.py Test with your own main function.  I will import your file to test with my own main.
+
+P6_7.py Find position, then use slicing.
+
+P6_16.py Print 20 elements on a single line.
+
+P6_29.py Write your own main to generate the input lists and to print the returned list.  I will import your function to test it.

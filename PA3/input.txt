@@ -1,0 +1,4 @@
+Bob;Dinner;10.00;January 1, 2015
+Tom;Dinner;14.00;January 2, 2015
+Anne;Lodging;125.00;January 3, 2015
+Jerry;Lodging;125.00;January 4, 2015

@@ -1,0 +1,17 @@
+# Levi VonBank
+
+# Finds cars total cost
+For car compute the following
+    fuel consumed = miles driven / fuel efficiency
+    fuel cost = price per gallon * fuel consumed
+    maintenance = miles driven * .05 cent
+    total cost 1 = maintenance + fuel cost
+
+# Finds trains total cost
+For train compute the following
+    total cost 2 = train ticket
+
+if total cost 1 < total cost 2
+    car
+else
+    train
